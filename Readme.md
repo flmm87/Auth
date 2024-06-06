@@ -10,5 +10,5 @@ It's my way of saying I'm serious about learning and getting better at making mo
 #Screenshoots
 
 
-<src='https://github.com/flmm87/Auth/assets/116169576/239f5ecc-f577-44f7-bdad-ebdf2a3627bf' width='300' />
-<src='https://github.com/flmm87/Auth/assets/116169576/de7abdf0-4e53-449b-84b4-761b024790c7' width='300' />
+<img src='https://github.com/flmm87/Auth/assets/116169576/239f5ecc-f577-44f7-bdad-ebdf2a3627bf' width='300' />
+<img src='https://github.com/flmm87/Auth/assets/116169576/de7abdf0-4e53-449b-84b4-761b024790c7' width='300' />
